@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sharkAnime",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.9,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "405200c8-98e7-4b81-a492-79d88e5e8752"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "ac9c829c-f812-415e-9531-b19149520c6c"
+            }
+          },
+          {
+            "frame": 1.7,
+            "value": {
+              "__uuid__": "b897a7cf-48d9-40a0-8950-612861bc0f17"
+            }
+          },
+          {
+            "frame": 2.3,
+            "value": {
+              "__uuid__": "6ffb2b0f-4cfd-4c87-b352-6bc8a16d460c"
+            }
+          },
+          {
+            "frame": 2.8,
+            "value": {
+              "__uuid__": "552d0ccf-8e76-42cf-9cf2-34da371cea37"
+            }
+          },
+          {
+            "frame": 3.3,
+            "value": {
+              "__uuid__": "e79d3c88-f204-4704-ae4e-2665024c0809"
+            }
+          },
+          {
+            "frame": 3.8,
+            "value": {
+              "__uuid__": "107ea20e-f370-48b6-b41e-5b37672d7a89"
+            }
+          },
+          {
+            "frame": 4.3,
+            "value": {
+              "__uuid__": "2da6f092-6fce-4240-a389-057bc5fde13d"
+            }
+          },
+          {
+            "frame": 4.8,
+            "value": {
+              "__uuid__": "57c9b1c0-eb51-4fb5-a343-ce620bb952aa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

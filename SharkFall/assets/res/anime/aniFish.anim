@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "aniFish",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3376ccbe-467d-47ec-8ba5-2ace2404114b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d6e16483-0e45-44ad-a2bc-d63588280efa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
